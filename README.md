@@ -1,3 +1,5 @@
+<img src="Justice LinkedIn Banner.png" alt="Github Banner" width="100%" />
+
 # 💫 About Me:
 💻 I'm a Software Engineer<br><br>✨ What I Do:<br><br>🌐 Full Stack Development: Crafting scalable, responsive web and mobile applications.<br>📊 Data Science: Turning data into actionable insights to drive decision-making.<br>☁️ Cloud Computing: Leveraging Azure Cloud to build robust and secure systems.
 
